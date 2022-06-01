@@ -1,0 +1,133 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Chaffee Carpentry - Links</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+<!-- include top navigation code -->
+<!--#include file="topnav.inc.htm" -->
+</head>
+
+  <tr valign="middle">
+    <td height="320" colspan="8" valign="top"><table width="750" height="502" border="0" cellpadding="15" cellspacing="1" bgcolor="#CCCCCC">
+      <tr valign="middle" bgcolor="#FFFFFF">
+        <td height="50" colspan="2"><h3>Links</h3>
+          <p>Visit our suppliers and other useful links below. <font color="#FF0000" size="3"></font></p></td>
+      </tr>
+      <tr>
+        <td width="310" valign="top" bgcolor="#FFFFFF"><p><strong><font color="#FF9900" size="2"><a name="suppliers"></a>SUPPLIERS</font></strong></p>
+          <table width="97%" border="0" align="center" cellpadding="4">
+            <tr valign="top">
+              <td width="37%" height="32"><p>Concrete</p></td>
+              <td width="63%"><p>MacLellan Concrete</p></td>
+            </tr>
+            <tr valign="top">
+              <td height="136"><p>Framing Lumber</p>
+              </td>
+              <td><p><a href="http://www.friendlumber.com/" target="_blank">Friend
+                    Lumber Company</a>, Burlington</p>
+                  <p><a href="http://www.doylelumber.com/" target="_blank">Doyle
+                      Lumber Company</a>, Andover</p>
+                  <p><a href="http://www.wilmingtonbuilderssupply.com" target="_blank">Wilmington
+                      Builders Supply</a>, Wilmington</p>
+              </td>
+            </tr>
+            <tr valign="top">
+              <td height="60"><p>Windows, Roofing &amp; Vinyl Siding</p>
+              </td>
+              <td><p><a href="http://www.harveyind.com" target="_blank">Harvey
+                    Industries</a>, Woburn</p>
+              </td>
+            </tr>
+            <tr valign="top">
+              <td height="45"><p>Azec Decking &amp; Railings </p>
+              </td>
+              <td><p><a href="http://www.harveyind.com" target="_blank">Harvey
+                    Industries</a>, Woburn</p>
+              </td>
+            </tr>
+            <tr valign="top">
+              <td height="78"><p>Tile</p></td>
+              <td><p><a href="http://www.fitzgeraldtile.com" target="_blank">Fitzgerald
+                    Tile</a>, Woburn</p>
+                <p>                  Tony's Imported Marble &amp; Tile</p></td>
+            </tr>
+            <tr valign="top">
+              <td height="47"><p>Carpet</p>
+              </td>
+              <td><p><a href="http://www.banddcarpets.com/" target="_blank">B&amp;D
+                    House of Carpets</a>, Burlington</p>
+              </td>
+            </tr>
+            <tr valign="top">
+              <td height="96"><p>Plumbing Fixtures</p></td>
+              <td><p><a href="http://www.ferguson.com" target="_blank">Ferguson
+                    Enterprises, Inc.</a>, Lynn</p>
+                <p>                  <a href="http://www.frankwebb.com/" target="_blank">Frank
+                    Webb's Bath Center</a>, Bedford</p></td>
+            </tr>
+            <tr valign="top">
+              <td height="81"><p>Lighting Fixtures</p>
+              </td>
+              <td><p><a href="http://www.westfordhomelighting.com" target="_blank">Westford
+                    Home Lighting</a>, Westford</p>
+                  <p> <a href="http://www.wolferslighting.com/" target="_blank">Wolfers
+                      Lighting</a>, Waltham</p>
+              </td>
+            </tr>
+            <tr valign="top">
+              <td height="51"><p>Kitchen Cabinets</p></td>
+              <td> <p><a href="http://www.friendlumber.com/" target="_blank">Friend
+                  Lumber Company</a>, Burlington</p></td>
+            </tr>
+            <tr valign="top">
+              <td height="48"><p>Interior Trim</p>
+              </td>
+              <td><p><a href="http://www.jacksonlumber.com" target="_blank">Jackson
+                    Lumber &amp; Millwork</a>, Haverhill</p>
+              </td>
+            </tr>
+            <tr valign="top">
+              <td height="33"><p>Paint</p></td>
+              <td><p><a href="http://www.colorworkspaintstores.com/" target="_blank">ColorWorks</a>,
+                Burlington</p></td>
+            </tr>
+          </table>
+          </td>
+        <td width="377" height="240" align="left" valign="top" bgcolor="#FFFFFF"><div align="center">
+            <p align="center"><img src="images/work01m.jpg" width="325" height="273"></p>
+            <p align="left"><strong><font color="#FF9900" size="2"><a name="useful"></a>USEFUL
+                  LINKS</font></strong></p>
+            <table width="84%" border="0" align="center" cellpadding="4">
+              <tr>
+                <td><p><a href="http://www.bobvila.com/" target="_blank">BobVila.com</a></p>
+                </td>
+                <td><a href="http://www.kitchen-bath.com/" target="_blank">Kitchen-Bath.com</a></td>
+              </tr>
+              <tr>
+                <td><a href="http://www.homemag.com/" target="_blank">Home Magazine</a></td>
+                <td><a href="http://www.thisoldhouse.com/" target="_blank">This
+                  Old House</a></td>
+              </tr>
+              <tr>
+                <td width="55%"><a href="http://www.kitchens.com/" target="_blank">Kitchens.com</a></td>
+                <td width="45%"><a href="http://www.dannylipford.com/" target="_blank">Today&#8217;s
+                  Homeowner</a></td>
+              </tr>
+              <tr>
+                <td colspan="2"><a href="http://www.smarthomeownermag.com/" target="_blank">Smart
+                  HomeOwner Magazine</a></td>
+                </tr>
+            </table>
+            </div></td>
+      </tr>
+    </table>      
+    </td>
+  </tr>
+  
+<!-- include footer code -->  
+<!--#include file="footer.inc.htm" -->
+
+</table>
+</body>
+</html>

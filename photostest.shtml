@@ -1,0 +1,264 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Chaffee Carpentry - Design&Build</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<!-- include top navigation code -->
+<link href="chaffee.css" rel="stylesheet" type="text/css">
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+function jspw3(d,m,f){ //v1.4 
+	f=f.split(',');var b=f[15],u=f[17],c=f[0],sl="_v_w_d_";var hr="jspw3_pop.htm?"+eval('escape(m.replace(/\\//g,sl))');var ret=massage(f[10],f[11],f[12],f[13],f[14],f[1],String(f[2]),b,f[6]);if(ret!=''){hr+=","+ret[0]+","+c+","+escape(f[1])+","+f[2]+","+escape(f[3])+","+escape(f[4])+","+f[6]+","+f[7]+","+f[8]+","+f[9]+","+ret[4]+","+ret[5]+","+f[16]+","+f[19]+","+eval('d.replace(/\\//g,sl)')+","+escape(f[5]);b=(b)?"yes":"no";var features="resizable=yes,scrollbars="+b+",width="+ret[0]+",height="+ret[1]+",top="+ret[2]+",left="+ret[3];if(u&&!c){window.open(hr,gJspw3nm++,features);}else{if(gJspw3Obj && typeof gJspw3Obj=='object' && !gJspw3Obj.closed)gJspw3Obj.close();gJspw3Obj=window.open(hr,gJspw3nm++,features);}}else window.open(m);document.MM_returnValue=(f[18]==3);}
+//-->
+</script>
+<script language="JavaScript" src="vwd_scripts/jspw3x.js"></script>
+</head>
+
+<body bgcolor="#3399CC" onLoad="MM_preloadImages('images/whoweare2.gif','images/whatwedo2.gif')">
+<table width="750" height="100%" border="0" align="center" cellpadding="1" cellspacing="1" bgcolor="#FFFFFF">
+
+  <tr>
+    <td height="115" colspan="3" align="center" valign="bottom"><div align="center"><a href="index.shtml"><img src="images/logo.gif" alt="Home" width="225" height="108" border="0"></a></div></td>
+    <td height="115" colspan="3" valign="bottom" background="images/button.gif" bgcolor="#FFFFFF"><a href="weare.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('WhoWeAre','','images/whoweare2.gif',1)"><img src="images/whoweare1.gif" alt="Who We Are" name="WhoWeAre" width="258" height="113" border="0"></a></td>
+    <td height="115" colspan="2" valign="bottom" background="images/button.gif"><a href="wedo.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('WhatWeDo','','images/whatwedo2.gif',1)"><img src="images/whatwedo1.gif" alt="What We Do" name="WhatWeDo" width="261" height="113" border="0"></a></td>
+  </tr>
+  <tr>
+    <td width="46" height="20" nowrap bgcolor="#FFCC00"><a href="index.shtml">HOME</a></td>
+    <td width="103" height="20" nowrap bgcolor="#FFCC00"><a href="design.shtml">DESIGN
+        &amp; BUILD</a></td>
+    <td width="76" height="20" nowrap bgcolor="#FFCC00"><a href="newhomes.shtml">NEW HOMES</a></td>
+    <td width="76" height="20" nowrap bgcolor="#FFCC00"><a href="additions.shtml">ADDITIONS</a></td>
+    <td width="120" height="20" nowrap bgcolor="#FFCC00"><a href="kitchens.shtml">KITCHENS &amp; BATHS</a></td>
+    <td width="62" height="20" nowrap bgcolor="#FFCC00"><a href="photos.shtml">PHOTOS</a></td>
+    <td width="50" height="20" nowrap bgcolor="#FFCC00"><a href="links.shtml">LINKS</a></td>
+    <td width="211" height="20" nowrap bgcolor="#FFCC00"><a href="contact.shtml">CONTACT US</a></td>
+  </tr>
+
+  <tr valign="middle">
+    <td height="320" colspan="8" valign="top"><table width="750" height="0" border="0" cellpadding="15" cellspacing="1" bgcolor="#CCCCCC">
+      <tr valign="middle" bgcolor="#FFFFFF">
+        <td height="50"><h3><a name="top"></a>Photos</h3>
+          <p>Select a category below to view samples of our work. Click on a
+            photo thumbnail to view a larger image in a separate window. </p>
+          <p>Thank you to all  the homeowners who graciously allowed us to photograph
+            their homes. All photographs copyright 2004 by Chaffee Carpentry.</p>
+          <p align="center"><a href="#interior">INTERIOR</a> | <a href="#exterior">EXTERIOR</a></p></td>
+      </tr>
+      <tr>
+        <td height="0" valign="top" bgcolor="#FFFFFF"><p><strong><font color="#FF9900" size="2"><a name="interior" id="interior"></a>INTERIOR</font></strong></p>
+          <div align="center">
+          <table width="100%" border="0" cellpadding="6">
+            <tr align="center" valign="bottom">
+              <td width="25%"><p><a href="javascript:;" target="_blank" onClick="jspw3('vwd_scripts/','images/int09m.jpg','1,,0,,photostest,-%20-%20click%20screen%20to%20close%20-%20-,0,0,,1,720,480,0,,,,,,0,,1.4.0.');return document.MM_returnValue"><img src="images/int09s.jpg" width="144" height="96" border="0"></a><br>
+                  Kitchen remodel with family room addition - view 1</p></td>
+              <td width="25%"><p><a href="images/int10m.jpg" target="_blank"><img src="images/int10s.jpg" width="144" height="100" border="0"></a><br>
+                Kitchen remodel - view 2<br>
+              </p>
+                </td>
+              <td width="25%"><p><a href="images/int07m.jpg" target="_blank"><img src="images/int07s.jpg" width="144" height="97" border="0"></a><br>
+Family room - view 3</p></td>
+              <td width="25%"><p><a href="images/int08m.jpg" target="_blank"><img src="images/int08s.jpg" width="144" height="108" border="0"></a><br>
+Family room - view 4</p></td>
+            </tr>
+            <tr align="center" valign="bottom">
+              <td><p><a href="images/int06m.jpg" target="_blank"><img src="images/int06s.jpg" width="144" height="102" border="0"></a><br>
+First level of 12x20 addition - view 1</p>
+              </td>
+              <td><p><a href="images/int17m.jpg" target="_blank"><img src="images/int17s.jpg" width="144" height="100" border="0"></a><br>
+                First level - view 2
+              </p>
+              </td>
+              <td><p><a href="images/int18m.jpg" target="_blank"><img src="images/int18s.jpg" width="144" height="96" border="0"></a><br>
+                Second level - view 1
+              </p>
+              </td>
+              <td><p><a href="images/int19m.jpg" target="_blank"><img src="images/int19s.jpg" width="84" height="126" border="0"></a><br>
+                Second level - view 2
+              </p>
+              </td>
+            </tr>
+            <tr align="center" valign="bottom">
+              <td><p><a href="images/int05m.jpg" target="_blank"><img src="images/int05s.jpg" width="144" height="96" border="0"></a><br>
+  Custom kitchen - view 1</p></td>
+              <td><p><a href="images/int14m.jpg" target="_blank"><img src="images/int14s.jpg" width="144" height="97" border="0"></a><br>
+                  Custom kitchen - view 2</p></td>
+              <td><p><a href="images/int15m.jpg" target="_blank"><img src="images/int15s.jpg" width="144" height="102" border="0"></a><br>
+                  Custom kitchen - view 3</p></td>
+              <td><p><a href="images/int16m.jpg" target="_blank"><img src="images/int16s.jpg" width="144" height="100" border="0"></a><br>
+                  Custom kitchen - view 4</p></td>
+            </tr>
+            <tr align="center" valign="bottom">
+              <td><p><a href="images/int02m.jpg" target="_blank"><img src="images/int02s.jpg" width="144" height="99" border="0"></a><br>
+      Kitchen remodel - view 1<br>
+      <a href="images/before03m.jpg" target="_blank">View before image</a></p>
+              </td>
+              <td><p><a href="images/int03m.jpg" target="_blank"><img src="images/int03s.jpg" width="144" height="93" border="0"></a><br>
+      Kitchen remodel - view 2<br>
+      <a href="images/before02m.jpg" target="_blank">View before image</a></p>
+              </td>
+              <td><p><a href="images/int01m.jpg" target="_blank"><img src="images/int01s.jpg" width="144" height="96" border="0"></a><br>
+      Kitchen remodel - view 3, replace wall with bar/island<br>
+      <a href="images/before04m.jpg" target="_blank">View before image</a></p>
+              </td>
+              <td><p><a href="images/int04m.jpg" target="_blank"><img src="images/int04s.jpg" width="144" height="96" border="0"></a><br>
+      Kitchen remodel - view 4, new bay window and slider<br>
+      <a href="images/before01m.jpg" target="_blank">View before image</a></p>
+              </td>
+            </tr>
+            <tr align="center" valign="bottom">
+              <td><p><a href="images/int12m.jpg" target="_blank"><img src="images/int12s.jpg" width="144" height="96" border="0"></a><br>
+                  Kitchen remodel</p></td>
+              <td><p><a href="images/int13m.jpg" target="_blank"><img src="images/int13s.jpg" width="144" height="105" border="0"></a><br>
+                  Woodworking</p></td>
+              <td><p><a href="images/int11m.jpg" target="_blank"><img src="images/int11s.jpg" width="144" height="96" border="0"></a><br>
+                  Family room addition</p></td>
+              <td><p><a href="images/int20m.jpg" target="_blank"><img src="images/int20s.jpg" width="144" height="108" border="0"></a><br>
+                French doors<br>
+                <a href="images/add06m.jpg" target="_blank">View exterior image</a>              </p>
+                </td>
+            </tr>
+            <tr align="center" valign="bottom">
+              <td><p><a href="images/int21m.jpg" target="_blank"><img src="images/int21s.jpg" width="144" height="98" border="0"></a><br>
+                  Kitchen addition - view 1</p></td>
+              <td><p><a href="images/int22m.jpg" target="_blank"><img src="images/int22s.jpg" width="144" height="100" border="0"></a><br>
+                  Kitchen addition - view 2</p></td>
+              <td><p><a href="images/int25m.jpg" target="_blank"><img src="images/int25s.jpg" width="144" height="108" border="0"></a><br>
+                  Kitchen addition - view 3</p></td>
+              <td><p><a href="images/int27m.jpg" target="_blank"><img src="images/int27s.jpg" width="144" height="99" border="0"></a><br>
+                Dining room remodel
+              </p></td>
+            </tr>
+            <tr align="center" valign="bottom">
+              <td><p><a href="images/int26m.jpg" target="_blank"><img src="images/int26s.jpg" width="144" height="104" border="0"></a><br>
+Kitchen remodel - view 1</p></td>
+              <td><p><a href="images/int31m.jpg" target="_blank"><img src="images/int31s.jpg" width="144" height="105" border="0"></a><br>
+  Kitchen remodel - view 2</p></td>
+              <td><p><a href="images/int30m.jpg" target="_blank"><img src="images/int30s.jpg" width="144" height="94" border="0"></a><br>
+                  Kitchen  and family room remodel - view 3</p></td>
+              <td><p><a href="images/int29m.jpg" target="_blank"><img src="images/int29s.jpg" width="144" height="97" border="0"></a><br>
+                  Family room  - view 4</p></td>
+            </tr>
+            <tr align="center" valign="bottom">
+              <td><p><a href="images/int32m.jpg" target="_blank"><img src="images/int32s.jpg" width="144" height="107" border="0"></a><br>
+                  Breezeway - view 1</p></td>
+              <td><p><a href="images/int33m.jpg" target="_blank"><img src="images/int33s.jpg" width="144" height="101" border="0"></a><br>
+                  Breezeway - view 2</p></td>
+              <td><p><a href="images/int34m.jpg" target="_blank"><img src="images/int34s.jpg" width="144" height="98" border="0"></a><br>
+                  Master bath - view 1</p></td>
+              <td><p><a href="images/int35m.jpg" target="_blank"><img src="images/int35s.jpg" width="63" height="98" border="0"></a> &nbsp;&nbsp;<a href="images/int36m.jpg" target="_blank"><img src="images/int36s.jpg" width="46" height="98" border="0"></a><br>
+                  Master bath - views 2 &amp; 3</p></td>
+            </tr>
+          </table>
+          <p><a href="#interior">INTERIOR</a> | <a href="#exterior">EXTERIOR</a> |
+            <a href="#top">TOP</a></p>
+          </div>
+        </td>
+        </tr>
+      <tr>
+        <td height="0" valign="top" bgcolor="#FFFFFF"><p><strong><font color="#FF9900" size="2"><a name="exterior" id="exterior"></a>EXTERIOR</font></strong></p>
+          <table width="100%" border="0" cellpadding="6">
+            <tr align="center" valign="bottom">
+              <td width="25%"><p><a href="images/new09m.jpg" target="_blank"><img src="images/new09s.jpg" width="144" height="102" border="0"></a><br>
+                New custom home - view 1
+              </p></td>
+              <td width="25%"><p><a href="images/new11m.jpg" target="_blank"><img src="images/new11s.jpg" width="144" height="102" border="0"></a><br>
+New custom home - view 2</p></td>
+              <td width="25%"><p><a href="images/new01m.jpg" target="_blank"><img src="images/new01s.jpg" width="144" height="96" border="0"></a><br>
+New custom home - side view</p></td>
+              <td width="25%"><p><a href="images/new03m.jpg" target="_blank"><img src="images/new03s.jpg" width="144" height="96" border="0"></a><br>
+New custom home - close up</p></td>
+            </tr>
+            <tr align="center" valign="bottom">
+              <td><p><a href="images/new08m.jpg" target="_blank"><img src="images/new08s.jpg" width="144" height="89" border="0"></a><br>
+                New custom home - view 3</p></td>
+              <td><p><a href="images/new10m.jpg" target="_blank"><img src="images/new10s.jpg" width="144" height="97" border="0"></a><br>
+                New custom home - view 4</p></td>
+              <td><p><a href="images/add04m.jpg" target="_blank"><img src="images/add04s.jpg" width="144" height="96" border="0"></a><br>
+Second level addition</p></td>
+              <td><p><a href="images/add03m.jpg" target="_blank"><img src="images/add03s.jpg" width="144" height="85" border="0"></a><br>
+Family room addition and entry</p></td>
+            </tr>
+            <tr align="center" valign="bottom">
+              <td><p><a href="images/add15m.jpg" target="_blank"><img src="images/add15s.jpg" width="144" height="97" border="0"></a><br>
+Second level addition<br>
+<a href="images/before15m.jpg" target="_blank">View before image</a></p></td>
+              <td><p><a href="images/add07m.jpg" target="_blank"><img src="images/add07s.jpg" width="144" height="101" border="0"></a><br>
+Second level addition</p></td>
+              <td><p><a href="images/add01m.jpg" target="_blank"><img src="images/add01s.jpg" width="144" height="76" border="0"></a><br>
+Garage addition</p></td>
+              <td><p><a href="images/add08m.jpg" target="_blank"><img src="images/add08s.jpg" width="144" height="99" border="0"></a><br>
+Second level and 12x12 addition</p></td>
+            </tr>
+            <tr align="center" valign="bottom">
+              <td><p><a href="images/add12m.jpg" target="_blank"><img src="images/add12s.jpg" width="144" height="96" border="0"></a><br>
+2nd level addition- view 1<br>
+<a href="images/before12m.jpg" target="_blank">View before image</a></p></td>
+              <td><p><a href="images/add13m.jpg" target="_blank"><img src="images/add13s.jpg" width="144" height="103" border="0"></a><br>
+2nd level - view 2 </p></td>
+              <td><p><a href="images/add14m.jpg" target="_blank"><img src="images/add14s.jpg" width="144" height="94" border="0"></a><br>
+2nd level - view 3</p></td>
+              <td><p><a href="images/add17m.jpg" target="_blank"><img src="images/add17s.jpg" width="144" height="97" border="0"></a><br>
+New entry to kitchen addition</p></td>
+            </tr>
+            <tr align="center" valign="bottom">
+              <td height="122"><p><a href="images/add09m.jpg" target="_blank"><img src="images/add09s.jpg" width="144" height="84" border="0"></a><br>
+                12x20 two story addition with farmer's porch</p></td>
+              <td><p><a href="images/add10m.jpg" target="_blank"><img src="images/add10s.jpg" width="144" height="94" border="0"></a><br>
+                Rear view of 12x20 addition</p></td>
+              <td><p><a href="images/add16m.jpg" target="_blank"><img src="images/add16s.jpg" width="144" height="96" border="0"></a><br>
+                Close up of farmer's porch</p></td>
+              <td><p><a href="images/add05m.jpg" target="_blank"><img src="images/add05s.jpg" width="144" height="96" border="0"></a><br>
+  Family room addition<br>
+                </p></td>
+            </tr>
+            <tr align="center" valign="bottom">
+              <td height="122"><p><a href="images/add02m.jpg" target="_blank"><img src="images/add02s.jpg" width="144" height="91" border="0"></a><br>
+Master bedroom suite and breezeway</p></td>
+              <td><p><a href="images/add18m.jpg" target="_blank"><img src="images/add18s.jpg" width="144" height="92" border="0"></a><br>
+                Master bedroom addition with garage and breezeway<br>
+                <a href="images/before18m.jpg" target="_blank">View before image
+                </a> </p></td>
+              <td><p><a href="images/add19m.jpg" target="_blank"><img src="images/add19s.jpg" width="144" height="98" border="0"></a><br>
+                Garage and breezeway addition - view 2<br>
+                <a href="images/during17m.jpg" target="_blank">View construction
+                image</a>              </p>
+                </td>
+              <td><p>&nbsp;</p></td>
+            </tr>
+          </table>          
+          <p align="center"><a href="#interior">INTERIOR</a> | <a href="#exterior">EXTERIOR</a> | <a href="#top">TOP</a></p>
+          </td>
+        </tr>
+    </table>      
+    </td>
+  </tr>
+  
+<!-- include footer code -->  
+<!--#include file="footer.inc.htm" -->
+
+</table>
+</body>
+</html>

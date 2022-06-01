@@ -1,0 +1,85 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Chaffee Carpentry - What We Do</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<!-- include top navigation code -->
+<!--#include file="topnav.inc.htm" -->
+<script type="text/javascript" src="vwd_scripts/jspw3x.js"></script>
+</head>
+
+    <td height="320" colspan="8" valign="top"><table width="750" height="0" border="0" cellpadding="15" cellspacing="1" bgcolor="#CCCCCC">
+      <tr valign="middle" bgcolor="#FFFFFF">
+        <td height="50" colspan="2"><h3>What We Do</h3>
+          <p>Our philosophy is to            provide superior quality and value
+            to the homeowner by continuously offering excellent building and
+            carpentry
+            skills
+            at a reasonable
+              price, producing excellent references from each job we complete.<br>
+          </p></td>
+      </tr>
+      <tr>
+        <td width="0" valign="top" bgcolor="#FFFFFF"><p align="left"><strong><font color="#FF9900" size="2">HOW
+                WE OPERATE</font></strong></p>
+          <p align="left">  We provide free, no obligation, competitive estimates and proposals. Upon acceptance,
+    we manage your project from start to finish in a professional, timely and honest
+    manner. </p>          
+          <p align="left">Our previous clients commend us for the way we 
+            easily co-exist with families during the construction process. We
+            strive for minimal interference  in your daily
+            life.</p>
+          <p align="left">We maintain communication by informing you each day
+            of the status of your project and welcome suggestions and feedback. </p>
+          <p align="left">Visit our <a href="photos.shtml">Photos</a> section
+            to view several of our completed projects. Client references are
+            available upon request.</p>
+          <p align="center"><img src="images/additions1.gif" width="340" height="209"><br>
+  Before and after tear down of existing house --<br>
+             New construction of custom craftsman colonial
+             <br>
+             <a href="images/add25m.jpg" title="View larger image" target="_blank" onClick="jspw3('vwd_scripts/','images/add25m.jpg','1,,0,View%20larger%20image,wedo,-%20-%20click%20screen%20to%20close%20-%20-,20,0,,1,720,443,10,,,,,,1,,1.4.0.');return document.MM_returnValue">View
+larger image</a> </p>
+          </td>
+        <td width="312" height="-1" align="center" valign="top" bgcolor="#FFFFFF"><div align="center">
+          <p align="left"><font color="#FF9900" size="2"><strong>OUR ACCOMPLISHMENTS</strong></font></p>
+          <table width="100%" border="0">
+            <tr>
+              <td width="42%" valign="top"><ul>
+                <li>Additions</li>
+                <li>Baths</li>
+                <li>Second levels</li>
+                <li>Dormers</li>
+                <li>Garages</li>
+                <li>Kitchens</li>
+                </ul>
+              </td>
+              <td width="58%" valign="top"><ul>
+                <li>Custom homes</li>
+                <li>Decks &amp; porches</li>
+                <li>Interior finish work</li>
+                <li>Hardwood staircases</li>
+                <li>Blueprints &amp; designs</li>
+              </ul></td>
+            </tr>
+          </table>
+          <p><img src="images/wedo.jpg" width="199" height="289"><br>
+            Front entry to new custom home</p>
+          </div></td>
+      </tr>
+      <tr>
+        <td height="0" colspan="2" valign="top" bgcolor="#FFFFFF"><p><strong><font color="#FF9900" size="2">CONTACT
+              US</font><font color="#FFCC00"><br>
+              </font></strong><a href="contact.shtml">Contact us</a> today for your
+        free, no obligation, competitive estimate and proposal.</p></td>
+        </tr>
+    </table>      
+    </td>
+  </tr>
+  
+<!-- include footer code -->  
+<!--#include file="footer.inc.htm" -->
+
+</table>
+</body>
+</html>

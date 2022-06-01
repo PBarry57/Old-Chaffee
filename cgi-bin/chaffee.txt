@@ -1,0 +1,8 @@
+To: d_m_barry@yahoo.com,brad@chaffeecarpentry.com
+Subject: Chaffee web site form submission
+
+My name is: [name]
+My address is: [address]
+My phone is: [phone]
+My email is: [email]
+My question/comments: [comments]

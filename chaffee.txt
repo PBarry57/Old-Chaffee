@@ -1,0 +1,12 @@
+To: brad@chaffeecarpentry.com
+Subject: Chaffee web site form submission
+
+My name is: [name]
+My address is: [address]
+My phone is: [phone]
+My email is: [email]
+My question/comments: [comments]
+
+This message generated at ChaffeeCarpentry.com.
+
+Do NOT reply to this message!

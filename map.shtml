@@ -1,0 +1,53 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Chaffee Carpentry - Site Map</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+<!-- include top navigation code -->
+<!--#include file="topnav.inc.htm" -->
+</head>
+
+  <tr valign="middle">
+    <td height="320" colspan="8" valign="top"><table width="750" height="324" border="0" cellpadding="15" cellspacing="1" bgcolor="#CCCCCC">
+      <tr valign="middle" bgcolor="#FFFFFF">
+        <td height="50" colspan="2"><h3>Site Map</h3>
+          <p>Use the outline below to navigate the pages in our web site.</p></td>
+      </tr>
+      <tr>
+        <td width="292" valign="top" bgcolor="#FFFFFF"><p align="left"><strong><font color="#FF9900" size="2">CHAFFEE
+                CARPENTRY</font></strong></p>
+          <ul>
+            <li><a href="index.shtml">Home</a></li>
+            <li><a href="weare.shtml">Who We Are</a></li>
+            <li><a href="wedo.shtml">What We Do</a></li>
+            <li><a href="design.shtml">Design &amp; Build</a></li>
+            <li><a href="newhomes.shtml">New Homes</a></li>
+            <li><a href="additions.shtml">Additions</a></li>
+            <li><a href="kitchens.shtml">Kitchens &amp; Baths</a></li>
+            <li><a href="photos.shtml">Photos
+                            </a>                    <ol>
+                      <li><a href="photos.shtml#interior">Interior</a></li>
+                      <li><a href="photos.shtml#exterior">Exterior</a></li>
+                    </ol>
+            </li>
+            <li><a href="links.shtml">Links</a>                    <ol>
+                      <li><a href="links.shtml#suppliers">Suppliers</a></li>
+                      <li><a href="links.shtml#useful">Useful Links</a></li>
+                    </ol>
+            </li>
+            <li><a href="contact.shtml">Contact Us</a></li>
+          </ul>
+        </td>
+        <td width="395" height="240" bgcolor="#FFFFFF"><div align="center"><img src="images/work01m.jpg" width="325" height="273"></div></td>
+      </tr>
+    </table>      
+    </td>
+  </tr>
+  
+<!-- include footer code -->  
+<!--#include file="footer.inc.htm" -->
+
+</table>
+</body>
+</html>

@@ -1,0 +1,81 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Chaffee Carpentry - Additions</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<!-- include top navigation code -->
+<!--#include file="topnav.inc.htm" -->
+<script type="text/javascript" src="vwd_scripts/jspw3x.js"></script>
+</head>
+
+  <tr valign="middle">
+    <td height="320" colspan="8" valign="top"><table width="750" height="0" border="0" cellpadding="15" cellspacing="1" bgcolor="#CCCCCC">
+      <tr valign="middle" bgcolor="#FFFFFF">
+        <td height="50" colspan="2"><h3>Additions</h3>
+          <p>Chaffee Carpentry offers superior quality and value for those wishing
+            to expand their existing home. </p></td>
+      </tr>
+      <tr>
+        <td width="0" height="0" rowspan="2" valign="top" bgcolor="#FFFFFF"><p><strong><font color="#FF9900" size="2">EXCELLENT
+                RESULTS<br>
+        </font></strong>Let us manage your construction project from initial
+        permit to final inspection. We operate in a timely manner, keeping you
+        informed every step
+        of the way. </p>
+          <p>Our goal is to ensure you are satisfied with the entire construction
+          process, as well as with your new addition.</p>
+          <p>If desired, we can work with you to design and create the necessary
+              floor plans,
+              cross-sections,
+              elevations,
+              framing
+              plans,
+              and
+                detail drawings utilizing our state of the art SoftPlan software.
+                Visit
+                      our <a href="design.shtml">Design &amp; Build</a> section
+            for more information. </p>
+          <p>Visit our <a href="photos.shtml">Photos</a> section to view several of our completed additions.
+              Client references are available upon request.</p>
+          <p align="center"><img src="images/additions4.gif" width="340" height="213"><br>
+              Before
+            and after house remodel and addition<br>
+            <a href="images/add27m.jpg" title="View larger image" target="_blank" onClick="jspw3('vwd_scripts/','images/add27m.jpg','1,,0,View%20larger%20image,additions,-%20-%20click%20screen%20to%20close%20-%20-,20,0,,1,720,452,10,,,,,,1,,1.4.0.');return document.MM_returnValue">View larger image</a> </p>
+          </td><td width="0" align="center" valign="top" bgcolor="#FFFFFF"><div align="left">
+          <p align="center">&nbsp;</p>
+          <p align="center"><img src="images/wedo2.jpg" width="358" height="235"><br>
+                2-story addition<br>
+family room &amp; master bedroom suite<br>
+            <a href="images/add26m.jpg" title="View larger image" target="_blank" onClick="jspw3('vwd_scripts/','images/add26m.jpg','1,,0,View%20larger%20image,additions,-%20-%20click%20screen%20to%20close%20-%20-,20,0,,1,720,472,10,,,,,,1,,1.4.0.');return document.MM_returnValue">View
+            larger image with before</a></p>
+          </div>            <div align="left">
+            <p><font color="#FF9900" size="2"><strong>OUR SERVICES
+              INCLUDE</strong></font></p>
+            <div align="left">
+              <ul>
+                <li>Assistance with setting up alternate accommodations when necessary</li>
+                <li>Attention to detail to keep your existing house clean during
+                  construction, such as installing dust barriers and drop cloths</li>
+                <li>Up to code plumbing and electrical</li>
+                </ul>
+            </div>
+            </div></td>
+      </tr>
+      <tr>
+        <td height="35" align="center" valign="top" bgcolor="#FFFFFF"><div align="left">
+          <p><strong><font color="#FF9900" size="2">CONTACT
+                US</font><font color="#FFCC00"><br>
+                </font></strong><a href="contact.shtml">Contact us</a> today
+            for your free, no obligation, competitive estimate and proposal.</p>
+        </div></td>
+      </tr>
+    </table>      
+    </td>
+  </tr>
+  
+<!-- include footer code -->  
+<!--#include file="footer.inc.htm" -->
+
+</table>
+</body>
+</html>
